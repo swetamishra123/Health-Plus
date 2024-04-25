@@ -4,7 +4,6 @@ Welcome to the Health Plus project repository! This is a React-based website aim
 
 ## Project Overview
 
-- **Website**: [Health Plus](https://alkaison.github.io/Health-Plus/ "Health Plus")
 - **Framework**: React.js
 - **Deployment**: GitHub Pages
 - **Libraries**: React-Toastify, React Router DOM, FontAwesomeIcon
@@ -55,9 +54,6 @@ Welcome to the Health Plus project repository! This is a React-based website aim
 
 ![Health-Plus Image-9](https://i.postimg.cc/2SxLtBk8/Health-Plus-Image9.png)
 
-## Deployment
-
-The website is deployed using GitHub Pages and can be accessed at [https://alkaison.github.io/Health-Plus/](https://alkaison.github.io/Health-Plus/).
 
 ## Getting Started
 
